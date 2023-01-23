@@ -127,6 +127,14 @@ mainset:
     probability: 1
   - name: ra
     probability: 1
+  - name: ko
+    probability: 1
+  - name: do
+    probability: 1
+  - name: yo
+    probability: 1
+  - name: ke
+    probability: 1
 - names:
   - name: mori
     probability: 1
@@ -163,6 +171,12 @@ mainset:
   - name: sei
     probability: 1
   - name: hama
+    probability: 1
+  - name: hata
+    probability: 1
+  - name: kawa
+    probability: 1
+  - name: hara
     probability: 1
 name: JP Random
 source: null
