@@ -35,6 +35,8 @@ mainset:
     probability: 1
   - name: kuma
     probability: 1
+  - name: goto
+    probability: 1
 name: JP Random
 source: null
 subsets: []
