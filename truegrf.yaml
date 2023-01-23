@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f2f08e79
+license: CC-BY-NC-4.0
+name: jpptowns
 type: townname
+url: https://github.com/Tintinfan/jpptowns
 version: 6
