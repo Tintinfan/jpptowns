@@ -32,6 +32,18 @@ mainset:
     probability: 1
   - name: En
     probability: 1
+  - name: Eri
+    probability: 1
+  - name: Fu
+    probability: 1
+  - name: Go
+    probability: 1
+  - name: Ha
+    probability: 1
+  - name: Hida
+    probability: 1
+  - name: Hino
+    probability: 1
 - names:
   - name: mori
     probability: 1
@@ -51,4 +63,11 @@ mainset:
     probability: 1
 name: JP Random
 source: null
-subsets: []
+subsets:
+- name: prefix
+  parts:
+  - names:
+    - name: '@(main)'
+      probability: 1
+    - name: Hi
+      probability: 1
