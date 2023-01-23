@@ -20,6 +20,18 @@ mainset:
     probability: 1
   - name: Chi
     probability: 1
+  - name: Bi
+    probability: 1
+  - name: Cha
+    probability: 1
+  - name: Cho
+    probability: 1
+  - name: Dai
+    probability: 1
+  - name: Echi
+    probability: 1
+  - name: En
+    probability: 1
 - names:
   - name: mori
     probability: 1
