@@ -47,6 +47,9 @@ mainset:
 - names:
   - name: mori
     probability: 1
+- names:
+  - name: mori
+    probability: 1
   - name: saki
     probability: 1
   - name: gasaki
@@ -60,9 +63,6 @@ mainset:
   - name: kuma
     probability: 1
   - name: goto
-    probability: 1
-- names:
-  - name: ' '
     probability: 1
 name: JP Random
 source: null
