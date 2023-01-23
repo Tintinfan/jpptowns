@@ -61,13 +61,9 @@ mainset:
     probability: 1
   - name: goto
     probability: 1
+- names:
+  - name: ' '
+    probability: 1
 name: JP Random
 source: null
-subsets:
-- name: prefix
-  parts:
-  - names:
-    - name: '@(main)'
-      probability: 1
-    - name: Hi
-      probability: 1
+subsets: []
