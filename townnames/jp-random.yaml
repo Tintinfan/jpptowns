@@ -52,6 +52,52 @@ mainset:
     probability: 1
   - name: Ina
     probability: 1
+  - name: Ishi
+    probability: 1
+  - name: Ita
+    probability: 1
+  - name: Ito
+    probability: 1
+  - name: Iwa
+    probability: 1
+  - name: Izu
+    probability: 1
+  - name: Ka
+    probability: 1
+  - name: Ki
+    probability: 1
+  - name: Ku
+    probability: 1
+  - name: Ma
+    probability: 1
+  - name: Mi
+    probability: 1
+  - name: Na
+    probability: 1
+  - name: Oya
+    probability: 1
+  - name: Ra
+    probability: 1
+  - name: Ri
+    probability: 1
+  - name: Sa
+    probability: 1
+  - name: Shi
+    probability: 1
+  - name: Ta
+    probability: 1
+  - name: To
+    probability: 1
+  - name: Tsu
+    probability: 1
+  - name: Wa
+    probability: 1
+  - name: Ya
+    probability: 1
+  - name: Yo
+    probability: 1
+  - name: Yu
+    probability: 1
 - names:
   - name: ''
     probability: 2
@@ -72,6 +118,14 @@ mainset:
   - name: 'no'
     probability: 1
   - name: kuni
+    probability: 1
+  - name: mi
+    probability: 1
+  - name: wa
+    probability: 1
+  - name: ho
+    probability: 1
+  - name: ra
     probability: 1
 - names:
   - name: mori
@@ -107,6 +161,8 @@ mainset:
   - name: gawa
     probability: 1
   - name: sei
+    probability: 1
+  - name: hama
     probability: 1
 name: JP Random
 source: null
