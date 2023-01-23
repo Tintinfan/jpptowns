@@ -1,0 +1,40 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Aba
+    probability: 1
+  - name: Asa
+    probability: 1
+  - name: Ao
+    probability: 1
+  - name: Aizu
+    probability: 1
+  - name: Ashi
+    probability: 1
+  - name: Aso
+    probability: 1
+  - name: Atsu
+    probability: 1
+  - name: Aya
+    probability: 1
+  - name: Chi
+    probability: 1
+- names:
+  - name: mori
+    probability: 1
+  - name: saki
+    probability: 1
+  - name: gasaki
+    probability: 1
+  - name: kata
+    probability: 1
+  - name: kita
+    probability: 1
+  - name: runo
+    probability: 1
+  - name: kuma
+    probability: 1
+name: JP Random
+source: null
+subsets: []
