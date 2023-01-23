@@ -40,12 +40,38 @@ mainset:
     probability: 1
   - name: Ha
     probability: 1
-  - name: Hida
+  - name: Hi
     probability: 1
-  - name: Hino
+  - name: Ho
+    probability: 1
+  - name: Iba
+    probability: 1
+  - name: Ichi
+    probability: 1
+  - name: Ii
+    probability: 1
+  - name: Ina
     probability: 1
 - names:
-  - name: mori
+  - name: ''
+    probability: 2
+  - name: ku
+    probability: 1
+  - name: ta
+    probability: 1
+  - name: ka
+    probability: 1
+  - name: chi
+    probability: 1
+  - name: ro
+    probability: 1
+  - name: ga
+    probability: 1
+  - name: shi
+    probability: 1
+  - name: 'no'
+    probability: 1
+  - name: kuni
     probability: 1
 - names:
   - name: mori
@@ -63,6 +89,24 @@ mainset:
   - name: kuma
     probability: 1
   - name: goto
+    probability: 1
+  - name: betsu
+    probability: 1
+  - name: gata
+    probability: 1
+  - name: zumi
+    probability: 1
+  - name: yama
+    probability: 1
+  - name: shimizu
+    probability: 1
+  - name: kanai
+    probability: 1
+  - name: ''
+    probability: 1
+  - name: gawa
+    probability: 1
+  - name: sei
     probability: 1
 name: JP Random
 source: null
